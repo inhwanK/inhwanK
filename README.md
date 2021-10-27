@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### heheheh
+### 오늘.. 날씨 좋네.
 <!--
 **inhwanK/inhwanK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
