@@ -1,6 +1,9 @@
 ### 알고리즘 공부... 👋
-### heheheh
-### 피곤
+### ㅎ
+### ㅎㅎㅎ
+### 열심히!
+
+
 <!--
 **inhwanK/inhwanK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
