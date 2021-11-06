@@ -1,6 +1,6 @@
 ### 알고리즘 공부... 👋
 ### ㅠㅠㅠ
-<img src="https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"/></a>
 <!--
 **inhwanK/inhwanK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
