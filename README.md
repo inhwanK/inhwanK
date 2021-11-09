@@ -4,6 +4,13 @@
 
 
 <!--
+
+- icone 링크 -
+https://simpleicons.org
+
+- badge 링크 -
+https://img.shields.io
+
 - badge tag 예시 -
 <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"/></a>
 
