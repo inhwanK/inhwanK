@@ -10,11 +10,16 @@
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"></a> &nbsp
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">  &nbsp
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"></a>  &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <!-- <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inhwanK)](https://github.com/inhwanK)
+
+
+[![Anurag's GitHub stats align="center"](https://github-readme-stats.vercel.app/api?username=inhwanK)](https://github.com/inhwanK)
+[![Top Langs align="center"](https://github-readme-stats.vercel.app/api/top-langs/?username=inhwanK&langs_count=8)](https://github.com/inhwanK)
+
+
 
 </article>
 
