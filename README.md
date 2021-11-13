@@ -14,13 +14,14 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <!-- <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp -->
 
+---
 
+<a href="https://github.com/inhwanK">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=inhwanK" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inhwanK&langs_count=8" />
+</a>
 
-[![Anurag's GitHub stats align="center"](https://github-readme-stats.vercel.app/api?username=inhwanK)](https://github.com/inhwanK)
-[![Top Langs align="center"](https://github-readme-stats.vercel.app/api/top-langs/?username=inhwanK&langs_count=8)](https://github.com/inhwanK)
-
-
-
+---
 </article>
 
 
