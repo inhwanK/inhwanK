@@ -25,8 +25,11 @@
 </article>
 
 
-
 <!--
+
+- 프로필 꾸미기 stat 등... -
+https://github.com/anuraghazra/github-readme-stats
+
 - 프로젝트 readme 참고 -
 https://github.com/procompiler/developer-village
 
