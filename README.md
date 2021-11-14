@@ -15,11 +15,9 @@
 <!-- <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp -->
 
 ---
+
 <a href="https://github.com/inhwanK">
-  
-</a>
-<a href="https://github.com/inhwanK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=inhwanK" />
+  <img align="center" width="450px"src="https://github-readme-stats.vercel.app/api?username=inhwanK" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inhwanK&layout=compact" />
 </a>
 
