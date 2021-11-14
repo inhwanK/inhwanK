@@ -16,10 +16,11 @@
 
 ---
 <a href="https://github.com/inhwanK">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inhwanK&layout=compact" />
+  
 </a>
 <a href="https://github.com/inhwanK">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=inhwanK" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inhwanK&layout=compact" />
 </a>
 
 ---
