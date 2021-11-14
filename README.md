@@ -17,8 +17,9 @@
 ---
 
 <a href="https://github.com/inhwanK">
-  <img align="center" width="450px"src="https://github-readme-stats.vercel.app/api?username=inhwanK" />
+  
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inhwanK&layout=compact" />
+  <img align="center" width="450px"src="https://github-readme-stats.vercel.app/api?username=inhwanK" />
 </a>
 
 ---
