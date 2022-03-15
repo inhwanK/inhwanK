@@ -1,7 +1,6 @@
 <!-- ### 알고리즘 공부... 👋 -->
  
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-
 </br>
  
 <p align="center">
