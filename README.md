@@ -4,15 +4,23 @@
 </br>
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-squar&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"></a> &nbsp
-<!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
+
+<br>
+<br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"></a>  &nbsp
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"></a>  &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
-<!-- <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp -->
+
+
+#### Email | inhan1009@naver.com
+
+#### GitHub | [https://github.com/inhwanK](https://github.com/inhwanK)
+
+#### Blog 2022 ~ | [https://bool-flower.tistory.com](https://bool-flower.tistory.com/)
+
+#### Blog ~ 2021 | [https://blog.naver.com/inhan1009](https://blog.naver.com/inhan1009)
 
 ---
 
