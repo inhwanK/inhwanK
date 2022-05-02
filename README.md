@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-squar&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"></a> &nbsp
 
-#### [노션 포트폴리오](https://insidious-snowstorm-64b.notion.site/847ba62d7b24436b971c17509d37b7db)
+#### [노션 포트폴리오](https://insidious-snowstorm-64b.notion.site/2aaa46ac627f4550a8b6592e9ea5d722)
 
 #### Blog 2022 ~ | [https://bool-flower.tistory.com](https://bool-flower.tistory.com/)
 
