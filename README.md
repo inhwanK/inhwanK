@@ -2,11 +2,8 @@
 
 
 #### [노션 포트폴리오](https://insidious-snowstorm-64b.notion.site/2aaa46ac627f4550a8b6592e9ea5d722)
-
 #### Email | inhan1009@naver.com
-
 #### Blog 2022 ~ | [https://bool-flower.tistory.com](https://bool-flower.tistory.com/)
-
 #### Blog ~ 2021 | [https://blog.naver.com/inhan1009](https://blog.naver.com/inhan1009)
 
 ---
