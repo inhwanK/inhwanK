@@ -1,5 +1,3 @@
-
-
 ---
 
 <a href="https://github.com/inhwanK">
