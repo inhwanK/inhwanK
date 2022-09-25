@@ -33,8 +33,6 @@ https://img.shields.io
 ?style=flat-square&logo=appveyor
 ?style=for-the-badge&logo=appveyor
 
-**inhwanK/inhwanK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
