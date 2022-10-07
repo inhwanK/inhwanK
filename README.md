@@ -1,37 +1,12 @@
----
-<a href="https://github.com/inhwanK">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inhwanK&layout=compact" />
-  <img align="center" width="450px"src="https://github-readme-stats.vercel.app/api?username=inhwanK&show_icons=true" />
-</a>
 
----
-</article>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inhan1009)](https://solved.ac/inhan1009/)
 
-
+<img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=inhwanK&show_icons=true" />
 
 <!--
 
 - 프로필 꾸미기 stat 등... -
 https://github.com/anuraghazra/github-readme-stats
-
-- 프로젝트 readme 참고 -
-https://github.com/procompiler/developer-village
-
-
-- icone 링크 -
-https://simpleicons.org
-
-- badge 링크 -
-https://img.shields.io
-
-- badge tag 예시 -
-<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"/></a>
-
-- badge style 예시 -
-?style=plastic&logo=appveyor
-?style=flat&logo=appveyor
-?style=flat-square&logo=appveyor
-?style=for-the-badge&logo=appveyor
 
 Here are some ideas to get you started:
 
