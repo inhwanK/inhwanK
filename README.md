@@ -6,9 +6,6 @@
 
 <!--
 
-- 프로필 꾸미기 stat 등... -
-https://github.com/anuraghazra/github-readme-stats
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
