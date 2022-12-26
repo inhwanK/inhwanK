@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FinhwanK&count_bg=%23B9FF00&title_bg=%23555555&icon=&icon_color=%2300E5FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FinhwanK&count_bg=%2300E2FF&title_bg=%2300E2FF&icon=apachenetbeanside.svg&icon_color=%2300E2FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=inhan1009)](https://solved.ac/inhan1009)
 
